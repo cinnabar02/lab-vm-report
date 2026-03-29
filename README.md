@@ -24,34 +24,34 @@ Object Storage
 ```
 
 ## Скриншоты виртуальной машины и Bucket
-![](img\img1.png)
-![](img\img2.png)
+![](img/img1.png)
+![](img/img2.png)
 
 ## Настройки Security Group
-![](img\img3.png)
-![](img\img4.png)
+![](img/img3.png)
+![](img/img4.png)
 
 ## Подтверждение работы SSH по ключу
-![](img\img5.png)
+![](img/img5.png)
 
 ## Скриншот работающего веб-сервиса
-![](img\img6.png)
+![](img/mg6.png)
 
 ## Подтверждение наличия резервной копии и восстановление
-![](img\img7.png)
-![](img\img8.png)
-![](img\img9.png)
+![](img/img7.png)
+![](img/img8.png)
+![](img/img9.png)
 
 ## Автоматическое создание резерной копии в Object Storage через cron
-![](img\img10.png)
-![](img\img11.png)
+![](img/img10.png)
+![](img/img11.png)
 
 
 ## Подтверждение отключения парольной авторизации
-![](img\img12.png)
+![](img/img12.png)
 
 ## Оценка затрат
-![](img\img13.png)
+![](img/img13.png)
 
 Лимит в 4000₽ соблюдается. Не используются лишние функции наподобие Cloud Backup, несущие за собой лишние расходы.
 
